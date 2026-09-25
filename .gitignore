@@ -5,3 +5,5 @@
 !.env.example
 .DS_Store
 Thumbs.db
+notes
+plan.txt
