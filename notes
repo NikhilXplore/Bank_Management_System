@@ -1,0 +1,5 @@
+command to compile java files such that class files are generated in bin folder
+// javac -d bin src/*.java
+// command to run the Main class file
+// java -cp bin Main
+but the path should be set to the project folder

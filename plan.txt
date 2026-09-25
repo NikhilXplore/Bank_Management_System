@@ -1,0 +1,34 @@
+plan is to create a bank management system.
+features
+
+1. User Authentication
+   - Sign Up
+   - Log In
+   - Password Recovery
+
+2. Account Management
+    - Create Account
+    - View Account Details
+    - Update Account Information
+    - Delete Account
+
+3. Transaction Management
+    - Deposit Funds
+    - Withdraw Funds
+    - Transfer Funds
+    - View Transaction History
+
+4. Loan Management
+    - Apply for Loan
+    - View Loan Status
+    - Repay Loan    
+
+5. Customer Support
+    - Contact Support
+
+    
+
+
+// functionality to add later 
+    .menu feature instead of command line inputs
+    .tick on every field when filled
